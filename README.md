@@ -1,2 +1,2 @@
 # Hotel-Booking-Page
-Hotel Booking Page with HTML &amp; CSS
+Hotel Booking Page with HTML , CSS and Bootstrap
